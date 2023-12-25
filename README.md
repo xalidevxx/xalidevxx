@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi, 👋 I'm Ali. 
 
-# Hi! I'm Alikhan. I'm a full-stack TS developer.
+### I'm a full-stack TS developer from Kazakhstan.
 
 <!--
 **xalidevxx/xalidevxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
