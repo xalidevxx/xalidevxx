@@ -8,6 +8,7 @@ Hi👋 I'm Ali
 
 <h5>
   <ul>
+    <li>📫 My portfolio: <a href="https://xalidevxx.github.io" target="_blank">xalidevxx.github.io</a></li>
     <li>🔭 I’m currently working on <a href="https://freelanceplus.io" target="_blank">freelanceplus.io</a></li>
     <li>💬 Ask me about Vue, React, Angular, Nestjs, Docker</li>
     <li>🌱 I’m currently learning Flutter</li>
