@@ -3,15 +3,15 @@ Hi👋 I'm Ali
 </h1>
 
 <h3 align="center">
-✨ I'm a full-stack TS developer from Kazakhstan ✨
+✨ I'm a full-stack developer from Kazakhstan ✨
 </h3>
 
 <h5>
   <ul>
+    <li>😄 I can create mobile/web apps</li>
     <li>📫 My portfolio: <a href="https://xalidevxx.github.io" target="_blank">xalidevxx.github.io</a></li>
-    <li>🔭 I’m currently working on <a href="https://freelanceplus.io" target="_blank">freelanceplus.io</a></li>
-    <li>💬 Ask me about Vue, React, Angular, Nestjs, Docker</li>
     <li>🌱 I’m currently learning Flutter</li>
+    <li>💬 I'm looking for a remote job</li>
     <li>📫 How to reach me: <a href="mailto:xalidevxx@gmail.com" target="_blank">xalidevxx@gmail.com</a></li>
   </ul>
 </h5>
