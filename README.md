@@ -3,7 +3,7 @@ Hi👋 I'm Ali
 </h1>
 
 <h3 align="center">
-✨ I'm a full-stack developer from Kazakhstan ✨
+✨ I'm a senior full-stack developer from Kazakhstan ✨
 </h3>
 
 <h5>
