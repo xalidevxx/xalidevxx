@@ -12,13 +12,16 @@ Hi👋 I'm Ali
     <li>🔭 I’m currently working on <a href="https://freelanceplus.io" target="_blank">freelanceplus.io</a></li>
     <li>💬 Ask me about Vue, React, Angular, Nestjs, Docker</li>
     <li>🌱 I’m currently learning Flutter</li>
-    <li>⚡ Fun fact: I once accidentally created the shortest source code for 'Hello World' ever. My code fits on one line, but still maintains readability!</li>
+    <li>⚡  Fun fact: I once accidentally created the shortest source code for 'Hello World' ever. My code fits on one line, but still maintains readability!</li>
+    <li>📫 How to reach me: xalidevxx@gmail.com</li>
   </ul>
 </h5>
 
 <h3>Skills and Tools👨‍💻</h3>
 <ul>
   <li>TypeScript</li>
+  <li>Dart</li>
+  <li>Flutter</li>
   <li>Vue</li>
   <li>React</li>
   <li>Angular</li>
@@ -38,7 +41,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - 
 -->
