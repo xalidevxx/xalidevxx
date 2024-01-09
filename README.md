@@ -12,7 +12,6 @@ Hi👋 I'm Ali
     <li>🔭 I’m currently working on <a href="https://freelanceplus.io" target="_blank">freelanceplus.io</a></li>
     <li>💬 Ask me about Vue, React, Angular, Nestjs, Docker</li>
     <li>🌱 I’m currently learning Flutter</li>
-    <li>⚡  Fun fact: I once accidentally created the shortest source code for 'Hello World' ever. My code fits on one line, but still maintains readability!</li>
     <li>📫 How to reach me: <a href="mailto:xalidevxx@gmail.com" target="_blank">xalidevxx@gmail.com</a></li>
   </ul>
 </h5>
