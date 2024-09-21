@@ -10,8 +10,7 @@ Hi👋 I'm Ali
   <ul>
     <li>😄 I can create mobile/web apps</li>
     <li>📫 My portfolio: <a href="https://xalidevxx.github.io" target="_blank">xalidevxx.github.io</a></li>
-    <li>🌱 I’m currently learning Flutter</li>
-    <li>💬 I'm looking for a remote job</li>
+    <li>🌱 I’m currently working on Takta.kz</li>
     <li>📫 How to reach me: <a href="mailto:xalidevxx@gmail.com" target="_blank">xalidevxx@gmail.com</a></li>
   </ul>
 </h5>
