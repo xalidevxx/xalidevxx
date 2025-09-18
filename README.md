@@ -28,6 +28,7 @@ Hi👋 I'm Ali
   <li>Nx</li>
   <li>Docker</li>
   <li>Nginx</li>
+  <li>MongoDB</li>
 </ul>
 
 <!--
